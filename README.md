@@ -1,10 +1,9 @@
 
 # ZeroSense – Multiplayer (Firebase + Flutter)
-
+[DOWNLOAD THE APP FROM RELEASE TAB]
 An online multiplayer **semantic word‑guessing game** built with **Flutter**, **Firebase Realtime Database**, and **Gen‑AI scoring**.  
 One player hosts a game, others join using a **Room ID**, and all players guess the secret word in real time.
 
-## App Link : https://drive.google.com/file/d/17SVMOGBTNrkeS4OWVXIUZ_fWtjMSR2a9/view?usp=sharing
 
 ---
 
