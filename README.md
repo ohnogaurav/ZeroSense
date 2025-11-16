@@ -1,4 +1,4 @@
-# 🚀 **ZeroShift**
+# 🚀 **ZeroSense**
 
 ### *AI-powered multiplayer semantic word-guessing game*
 
@@ -8,15 +8,15 @@ Built with **Flutter**, **Firebase Realtime DB**, **Groq LLM**, and a **secure C
 
 <div align="center">
 
-![ZeroShift Banner](assets/icon/app_banner_placeholder.png)
+![ZeroSense Banner](assets/icon/app_banner_placeholder.png)
 
 </div>
 
 ---
 
-## 📌 **What is ZeroShift?**
+## 📌 **What is ZeroSense?**
 
-**ZeroShift** is a fast, AI-driven multiplayer word-guessing game inspired by Semantle.
+**ZeroSense** is a fast, AI-driven multiplayer word-guessing game inspired by Semantle.
 Players compete to guess a *secret word* by submitting guesses, and the **AI returns a semantic score from 0 → 100**:
 
 * **0 = exact match**
@@ -24,7 +24,7 @@ Players compete to guess a *secret word* by submitting guesses, and the **AI ret
 
 The lower the score → the closer the guess.
 
-Unlike other clones, ZeroShift uses **pure LLM intelligence** (Groq + Llama-3.1-8B) to score words and generate hints.
+Unlike other clones, ZeroSense uses **pure LLM intelligence** (Groq + Llama-3.1-8B) to score words and generate hints.
 Everything is processed through a **secure Cloudflare Worker**, so **no API keys ever touch the client**.
 
 ---
