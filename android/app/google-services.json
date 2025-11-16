@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "733832724222",
+    "firebase_url": "https://semantic-word-game-default-rtdb.firebaseio.com",
+    "project_id": "semantic-word-game",
+    "storage_bucket": "semantic-word-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733832724222:android:0f931bd6aed02b5ca92faf",
+        "android_client_info": {
+          "package_name": "com.example.semantic_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXoBNqaUnt-G8vy-WBx5tI6H6ZqkMtbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
