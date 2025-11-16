@@ -8,7 +8,7 @@ Built with **Flutter**, **Firebase Realtime DB**, **Groq LLM**, and a **secure C
 
 <div align="center">
 
-![ZeroSense Banner](assets/icon/app_banner_placeholder.png)
+![ZeroSense Banner](assets/icon/icon.png)
 
 </div>
 
